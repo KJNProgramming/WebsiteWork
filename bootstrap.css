@@ -56,7 +56,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #20c979;
+  --bs-body-bg: #b1b1b1;
 }
 
 *,
@@ -3449,8 +3449,7 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 400;
-  color: #0d6efd;
-  text-decoration: underline;
+  color: #666666;
 }
 .btn-link:hover {
   color: #0a58ca;
