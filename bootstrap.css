@@ -167,6 +167,8 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
+  padding-top: 2rem;
+  padding-bottom: 5rem;
 }
 @media (min-width: 1200px) {
   h3, .h3 {
@@ -201,6 +203,7 @@ p {
   text-align: center;
   color: var(--bs-white);
 }
+
 
 menu {
     text-align: right;
