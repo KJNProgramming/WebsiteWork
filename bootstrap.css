@@ -153,17 +153,19 @@ p {
   text-align: centre;
 }
 
-myHeader {
-  text-align: center
+#my_title {
+  text-align: center;
   color: var(--bs-white);
 }
 
 menu {
-    text-align: left;
+    text-align: right;
+    padding-right: 2rem;
+    list-style-type: none;
 }
 
 section {
-    text-align: center ;
+    text-align: center;
 
 }
 
@@ -185,6 +187,12 @@ address {
 ol,
 ul {
   padding-left: 2rem;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 ol,
